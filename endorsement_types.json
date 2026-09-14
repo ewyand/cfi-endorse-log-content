@@ -1,0 +1,678 @@
+{
+  "schemaVersion": 1,
+  "edition": "K",
+  "types": [
+    {
+      "id": "ac65k-001",
+      "code": "61.39(a)(6)(i),(ii)",
+      "title": "Prerequisites for practical test",
+      "category": "Prerequisites for the Practical Test Endorsement",
+      "sampleText": "I certify that [First name, MI, Last name] has received and logged training time within 2 calendar months preceding the month of application in preparation for the practical test and they are prepared for the required practical test for the issuance of [applicable] certificate."
+    },
+    {
+      "id": "ac65k-002",
+      "code": "61.39(a)(6)(iii)",
+      "title": "Review of deficiencies identified on airman knowledge test",
+      "category": "Prerequisites for the Practical Test Endorsement",
+      "sampleText": "I certify that [First name, MI, Last name] has demonstrated satisfactory knowledge of the subject areas in which they were deficient on the [applicable] airman knowledge test."
+    },
+    {
+      "id": "ac65k-003",
+      "code": "61.87(b)",
+      "title": "Pre-solo aeronautical knowledge",
+      "category": "Student Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has satisfactorily completed the pre-solo knowledge test of 14 CFR \u00a7 61.87(b) for the [make and model (M/M)] aircraft."
+    },
+    {
+      "id": "ac65k-004",
+      "code": "61.87(c)(1),(2)",
+      "title": "Pre-solo flight training",
+      "category": "Student Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received and logged pre-solo flight training for the maneuvers and procedures that are appropriate to the [M/M] aircraft. I have determined they have demonstrated satisfactory proficiency and safety on the maneuvers and procedures required by 14 CFR \u00a7 61.87 in this or similar make and model of aircraft to be flown."
+    },
+    {
+      "id": "ac65k-005",
+      "code": "61.87(o)",
+      "title": "Pre-solo flight training at night",
+      "category": "Student Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received flight training at night on night flying procedures that include takeoffs, approaches, landings, and go-arounds at night at the [airport name] airport where the solo flight will be conducted; navigation training at night in the vicinity of the [airport name] airport where the solo flight will be conducted. This endorsement expires 90 calendar days from the date the flight training at night was received."
+    },
+    {
+      "id": "ac65k-006",
+      "code": "61.87(n)",
+      "title": "Solo flight (first 90-calendar-day period)",
+      "category": "Student Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training to qualify for solo flying. I have determined they meet the applicable requirements of 14 CFR \u00a7 61.87(n) and are proficient to make solo flights in [M/M]."
+    },
+    {
+      "id": "ac65k-007",
+      "code": "61.87(p)",
+      "title": "Solo flight (each additional 90-calendar-day period)",
+      "category": "Student Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training to qualify for solo flying. I have determined that they meet the applicable requirements of 14 CFR \u00a7 61.87(p) and are proficient to make solo flights in [M/M]."
+    },
+    {
+      "id": "ac65k-008",
+      "code": "61.93(b)(1)",
+      "title": "Solo takeoffs and landings at another airport within 25 NM",
+      "category": "Student Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.93(b)(1). I have determined that they are proficient to practice solo takeoffs and landings at [airport name]. The takeoffs and landings at [airport name] are subject to the following conditions: [List any applicable conditions or limitations.]"
+    },
+    {
+      "id": "ac65k-009",
+      "code": "61.93(c)(1),(2)",
+      "title": "Solo cross-country flight",
+      "category": "Student Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required solo cross-country training. I find they have met the applicable requirements of 14 CFR \u00a7 61.93 and are proficient to make solo cross-country flights in a [M/M] aircraft, [aircraft category]."
+    },
+    {
+      "id": "ac65k-010",
+      "code": "61.93(c)(3)",
+      "title": "Solo cross-country flight (specific flight)",
+      "category": "Student Pilot Endorsements",
+      "sampleText": "I have reviewed the cross-country planning of [First name, MI, Last name]. I find the planning and preparation to be correct to make the solo flight from [origination airport] via [route of flight] with landings at [names of the airports] in a [M/M] aircraft on [date]. [List any applicable conditions or limitations.]"
+    },
+    {
+      "id": "ac65k-011",
+      "code": "61.93(b)(2)",
+      "title": "Repeated solo cross-country flights not more than 50 NM from the point of departure",
+      "category": "Student Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training in both directions between and at both [airport names]. I have determined that they are proficient of 14 CFR \u00a7 61.93(b)(2) to conduct repeated solo cross-country flights over that route, subject to the following conditions: [List any applicable conditions or limitations.]"
+    },
+    {
+      "id": "ac65k-012",
+      "code": "61.95(a)",
+      "title": "Solo flight in Class B airspace",
+      "category": "Student Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.95(a). I have determined they are proficient to conduct solo flights in [name of Class B] airspace. [List any applicable conditions or limitations.]"
+    },
+    {
+      "id": "ac65k-013",
+      "code": "61.95(b), 91.131(b)(1)",
+      "title": "Solo flight to, from, or at an airport located in Class B airspace",
+      "category": "Student Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.95(b)(1). I have determined that they are proficient to conduct solo flight operations at [name of airport]. [List any applicable conditions or limitations.]"
+    },
+    {
+      "id": "ac65k-014",
+      "code": "49 CFR 1552.15(c)",
+      "title": "Endorsement of U.S. citizenship recommended by the TSA",
+      "category": "Student Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has presented me a [type of document presented, such as a U.S. birth certificate or U.S. passport, and the relevant control or sequential number on the document, if any] establishing that they are a U.S. citizen or national in accordance with 49 CFR \u00a7 1552.7(a)."
+    },
+    {
+      "id": "ac65k-015",
+      "code": "61.94(a)",
+      "title": "Solo flight in Class B, C, and D airspace",
+      "category": "Additional Student Pilot Endorsements for Students Seeking Sport or Recreational Pilot Certificates",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.94(a). I have determined they are proficient to conduct solo flights in [name of Class B, C, or D] airspace and authorized to operate to, from, through, and at [name of airport]. [List any applicable conditions or limitations.]"
+    },
+    {
+      "id": "ac65k-016",
+      "code": "61.94(a), 91.131(b)(1)",
+      "title": "Solo flight to, from, or at an airport located in Class B, C, or D airspace or at an airport having an operational control tower",
+      "category": "Additional Student Pilot Endorsements for Students Seeking Sport or Recreational Pilot Certificates",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.94(a)(1). I have determined that they are proficient to conduct solo flight operations at [name of airport located in Class B, C, or D airspace or an airport having an operational control tower]. [List any applicable conditions or limitations.]"
+    },
+    {
+      "id": "ac65k-017",
+      "code": "61.35(a)(1), 61.309",
+      "title": "Aeronautical knowledge test",
+      "category": "Sport Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required aeronautical knowledge training of 14 CFR \u00a7 61.309. I have determined that they are prepared for the [name of] knowledge test."
+    },
+    {
+      "id": "ac65k-018",
+      "code": "61.309, 61.311",
+      "title": "Taking flight proficiency check for different category or class of aircraft",
+      "category": "Sport Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training in accordance with 14 CFR \u00a7\u00a7 61.309 and 61.311 and have determined that they are prepared for the [name of] proficiency check."
+    },
+    {
+      "id": "ac65k-019",
+      "code": "61.309, 61.311",
+      "title": "Passing flight proficiency check for different category or class of aircraft",
+      "category": "Sport Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has met the requirements of 14 CFR \u00a7\u00a7 61.309 and 61.311, and I have determined them proficient to act as pilot in command of [category and class of] aircraft."
+    },
+    {
+      "id": "ac65k-020",
+      "code": "61.309, 61.311, 61.313",
+      "title": "Taking sport pilot practical test",
+      "category": "Sport Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the training required in accordance with 14 CFR \u00a7\u00a7 61.309 and 61.311 and met the aeronautical experience requirements of 14 CFR \u00a7 61.313. I have determined that they are prepared for the [type of] practical test."
+    },
+    {
+      "id": "ac65k-021",
+      "code": "61.309, 61.311, 61.313",
+      "title": "Passing a sport pilot practical test",
+      "category": "Sport Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has met the requirements of 14 CFR \u00a7\u00a7 61.309, 61.311, and 61.313, and I have determined them proficient to act as pilot in command of [category and class of] aircraft."
+    },
+    {
+      "id": "ac65k-022",
+      "code": "61.45(g)(4)(ii)",
+      "title": "Passing a sport pilot practical test with a simplified flight controls limitation",
+      "category": "Sport Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has successfully completed the practical test in [category/class/model] with simplified flight controls designation and is authorized to act as pilot in command in [aircraft category/class] limited to [aircraft model] with simplified flight controls designation."
+    },
+    {
+      "id": "ac65k-023",
+      "code": "61.325",
+      "title": "Class B, C, or D airspace; at an airport located in Class B, C, or D airspace; or to, from, through, or at an airport having an operational control tower",
+      "category": "Sport Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.325. I have determined they are proficient to conduct operations in Class B, C, or D airspace; at an airport located in Class B, C, or D airspace; or to, from, through, or at an airport having an operational control tower."
+    },
+    {
+      "id": "ac65k-024",
+      "code": "61.327",
+      "title": "Aircraft with a maximum speed (VH) of 87 KCAS or less",
+      "category": "Sport Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training in accordance with 14 CFR \u00a7 61.327(a) in a [M/M] aircraft. I have determined them proficient to act as pilot in command of an aircraft that has a VH less than or equal to 87 KCAS."
+    },
+    {
+      "id": "ac65k-025",
+      "code": "61.327",
+      "title": "Aircraft with a VH greater than 87 KCAS",
+      "category": "Sport Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training in accordance with 14 CFR \u00a7 61.327(b) in a [M/M] aircraft. I have determined them proficient to act as pilot in command of an aircraft that has a VH greater than 87 KCAS."
+    },
+    {
+      "id": "ac65k-026",
+      "code": "61.329",
+      "title": "Flight training at night",
+      "category": "Sport Pilot Endorsements",
+      "sampleText": "I certify that [First Name, MI, Last Name], [grade of pilot certificate], [certificate number], has received the required training at night in a [category and class] aircraft. I have determined they meet all of the requirements of 14 CFR \u00a7 61.329(a) and are proficient to operate as a sport pilot at night."
+    },
+    {
+      "id": "ac65k-027",
+      "code": "61.331(a)",
+      "title": "To act as PIC in an aircraft with retractable landing gear",
+      "category": "Sport Pilot Endorsements",
+      "sampleText": "I certify that [First Name, MI, Last Name], [certificate number], has received the required training of 14 CFR \u00a7 61.331(a) in an aircraft with retractable landing gear. I have determined that they are proficient in the operation of an aircraft with retractable landing gear when exercising their sport pilot privileges."
+    },
+    {
+      "id": "ac65k-028",
+      "code": "61.331(b)",
+      "title": "To act as PIC in an airplane with a manual controllable pitch propeller",
+      "category": "Sport Pilot Endorsements",
+      "sampleText": "I certify that [First Name, MI, Last Name], [certificate number], has received the required training of 14 CFR \u00a7 61.331(b) in an airplane with a controllable pitch propeller. I have determined that they are proficient in the operation of an airplane with a controllable pitch propeller when exercising their sport pilot privileges."
+    },
+    {
+      "id": "ac65k-029",
+      "code": "61.35(a)(1), 61.96(b)(3), 61.97(b)",
+      "title": "Aeronautical knowledge test",
+      "category": "Recreational Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.97(b). I have determined that they are prepared for the [name of] knowledge test."
+    },
+    {
+      "id": "ac65k-030",
+      "code": "61.96(b)(5), 61.98(a),(b), 61.99",
+      "title": "Flight proficiency/practical test",
+      "category": "Recreational Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7\u00a7 61.98(b) and 61.99. I have determined that they are prepared for the [name of] practical test."
+    },
+    {
+      "id": "ac65k-031",
+      "code": "61.101(b)",
+      "title": "Recreational pilot to operate within 50 NM of the airport where training was received",
+      "category": "Recreational Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.101(b). I have determined that they are competent to operate at the [name of airport]."
+    },
+    {
+      "id": "ac65k-032",
+      "code": "61.101(c)",
+      "title": "Recreational pilot to act as PIC on a flight that exceeds 50 NM of the departure airport",
+      "category": "Recreational Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required cross-country training of 14 CFR \u00a7 61.101(c). I have determined that they are proficient in cross-country flying of 14 CFR part 61 subpart E."
+    },
+    {
+      "id": "ac65k-033",
+      "code": "61.101(g)",
+      "title": "Recreational pilot with less than 400 flight hours and no logged PIC time within the preceding 180 calendar days",
+      "category": "Recreational Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required 180-day recurrent training of 14 CFR \u00a7 61.101(g) in a [M/M] aircraft. I have determined them proficient to act as pilot in command of that aircraft."
+    },
+    {
+      "id": "ac65k-034",
+      "code": "61.101(j)",
+      "title": "Recreational pilot to conduct solo flights for an additional certificate or rating under instructor supervision",
+      "category": "Recreational Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.87 in a [M/M] aircraft. I have determined they are prepared to conduct a solo flight on [date] under the following conditions: [List all conditions which require endorsement (e.g., flight which requires communication with air traffic control (ATC), flight in an aircraft for which the pilot does not hold a category/class rating, etc.).]"
+    },
+    {
+      "id": "ac65k-035",
+      "code": "61.101(d)",
+      "title": "Class B, C, or D airspace; at an airport located in Class B, C, or D airspace; or to, from, through, or at an airport having an operational control tower",
+      "category": "Recreational Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.101(d). I have determined they are proficient to conduct operations in Class B, C, or D airspace; at an airport located in Class B, C, or D airspace; or to, from, through, or at an airport having an operational control tower."
+    },
+    {
+      "id": "ac65k-036",
+      "code": "61.35(a)(1), 61.103(d), 61.105",
+      "title": "Aeronautical knowledge test",
+      "category": "Private Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training in accordance with 14 CFR \u00a7 61.105. I have determined they are prepared for the [name of] knowledge test."
+    },
+    {
+      "id": "ac65k-037",
+      "code": "61.103(f), 61.107(b), 61.109",
+      "title": "Flight proficiency/practical test",
+      "category": "Private Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training in accordance with 14 CFR \u00a7\u00a7 61.107 and 61.109. I have determined they are prepared for the [name of] practical test."
+    },
+    {
+      "id": "ac65k-038",
+      "code": "61.35(a)(1), 61.123(c), 61.125",
+      "title": "Aeronautical knowledge test",
+      "category": "Commercial Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.125. I have determined that they are prepared for the [name of] knowledge test."
+    },
+    {
+      "id": "ac65k-039",
+      "code": "61.123(e), 61.127, 61.129",
+      "title": "Flight proficiency/practical test",
+      "category": "Commercial Pilot Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7\u00a7 61.127 and 61.129. I have determined that they are prepared for the [name of] practical test."
+    },
+    {
+      "id": "ac65k-040",
+      "code": "61.160",
+      "title": "Restricted privileges ATP certificate, Airplane Multiengine Land (AMEL) rating",
+      "category": "Airline Transport Pilot (ATP) Endorsements",
+      "sampleText": "The [insert institution's name] certifies that the recipient of this degree has successfully completed all of the aviation coursework requirements of 14 CFR \u00a7 61.160[(b), (c), or (d)] and therefore meets the academic eligibility requirements of 14 CFR \u00a7 61.160[(b), (c), or (d)]."
+    },
+    {
+      "id": "ac65k-041",
+      "code": "61.153(e)",
+      "title": "ATP Certification Training Program (CTP)",
+      "category": "Airline Transport Pilot (ATP) Endorsements",
+      "sampleText": "The applicant named above has successfully completed the Airline Transport Pilot Certification Training Program as required by 14 CFR \u00a7 61.156, and therefore has met the prerequisite required by 14 CFR \u00a7 61.35(a)(2) for the Airline Transport Pilot Multiengine Airplane Knowledge Test."
+    },
+    {
+      "id": "ac65k-042",
+      "code": "61.35(a)(1), 61.65(a),(b)",
+      "title": "Aeronautical knowledge test",
+      "category": "Instrument Rating Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.65(b). I have determined that they are prepared for the Instrument\u2013[airplane, helicopter, or powered-lift] knowledge test."
+    },
+    {
+      "id": "ac65k-043",
+      "code": "61.65(a)(6)",
+      "title": "Flight proficiency/practical test",
+      "category": "Instrument Rating Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.65(c) and (d). I have determined they are prepared for the Instrument\u2013[airplane, helicopter, or powered-lift] practical test."
+    },
+    {
+      "id": "ac65k-044",
+      "code": "61.39(a)",
+      "title": "Prerequisites for instrument practical tests",
+      "category": "Instrument Rating Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received and logged the required flight time/training of 14 CFR \u00a7 61.39(a) in preparation for the practical test within 2 calendar months preceding the date of the test and has satisfactory knowledge of the subject areas in which they were shown to be deficient by the FAA Airman Knowledge Test Report. I have determined they are prepared for the Instrument\u2013[airplane, helicopter, or powered-lift] practical test."
+    },
+    {
+      "id": "ac65k-045",
+      "code": "61.183(d)",
+      "title": "Fundamentals of instructing knowledge test",
+      "category": "Flight Instructor (Other Than Flight Instructors With a Sport Pilot Rating) Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required fundamentals of instruction training of 14 CFR \u00a7 61.185(a)(1). I have determined that they are prepared for the Fundamentals of Instructing knowledge test."
+    },
+    {
+      "id": "ac65k-046",
+      "code": "61.183(f)",
+      "title": "Flight instructor aeronautical knowledge test",
+      "category": "Flight Instructor (Other Than Flight Instructors With a Sport Pilot Rating) Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.185(a)[(2) or (3) (as appropriate to the flight instructor rating sought)]. I have determined that they are prepared for the [name of] knowledge test."
+    },
+    {
+      "id": "ac65k-047",
+      "code": "61.183(g)",
+      "title": "Flight instructor ground and flight proficiency/practical test",
+      "category": "Flight Instructor (Other Than Flight Instructors With a Sport Pilot Rating) Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.187(b). I have determined that they are prepared for the certificated flight instructor \u2013 [aircraft category and class] practical test."
+    },
+    {
+      "id": "ac65k-048",
+      "code": "61.183(g), 61.187(a),(b)(7)",
+      "title": "Flight instructor certificate with instrument-(category/class) rating/practical test",
+      "category": "Flight Instructor (Other Than Flight Instructors With a Sport Pilot Rating) Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required certificated flight instructor - instrument training of 14 CFR \u00a7 61.187(b)(7). I have determined they are prepared for the certificated flight instructor - instrument\u2013[airplane, helicopter, or powered-lift] practical test."
+    },
+    {
+      "id": "ac65k-049",
+      "code": "61.183(i)(1)",
+      "title": "Spin training",
+      "category": "Flight Instructor (Other Than Flight Instructors With a Sport Pilot Rating) Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.183(i) in [an airplane, a glider]. I have determined that they are competent and possess instructional proficiency in stall awareness, spin entry, spins, and spin recovery procedures."
+    },
+    {
+      "id": "ac65k-050",
+      "code": "FAA-S-8081-7",
+      "title": "Helicopter touchdown autorotation (Flight Instructor PTS, Rotorcraft Category Gyroplane Rating)",
+      "category": "Flight Instructor (Other Than Flight Instructors With a Sport Pilot Rating) Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received training in straight-in autorotations in a single engine helicopter and autorotation with turns in a single engine helicopter to include touchdown. I have determined that they are competent in instructional knowledge relating to the elements, common errors, performance, and correction of common errors related to straight-in autorotations in a single engine helicopter and autorotation with turns in a single engine helicopter."
+    },
+    {
+      "id": "ac65k-051",
+      "code": "61.405(a)(1)",
+      "title": "Fundamentals of instructing knowledge test",
+      "category": "Flight Instructor With a Sport Pilot Rating Endorsement",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training in accordance with 14 CFR \u00a7 61.405(a)(1). I have determined that they are prepared for the Fundamentals of Instructing knowledge test."
+    },
+    {
+      "id": "ac65k-052",
+      "code": "61.35(a)(1), 61.405(a)",
+      "title": "Sport pilot flight instructor aeronautical knowledge test",
+      "category": "Flight Instructor With a Sport Pilot Rating Endorsement",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.405(a)(2). I have determined that they are prepared for the [name of the knowledge test]."
+    },
+    {
+      "id": "ac65k-053",
+      "code": "61.409, 61.419",
+      "title": "Flight proficiency check for additional category/class",
+      "category": "Flight Instructor With a Sport Pilot Rating Endorsement",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training in accordance with 14 CFR \u00a7\u00a7 61.409 and 61.419 and have determined that they are prepared for a proficiency check for the flight instructor with a sport pilot rating in a [aircraft category and class]."
+    },
+    {
+      "id": "ac65k-054",
+      "code": "61.409, 61.419",
+      "title": "Proficiency check completion endorsement for additional category or class privilege",
+      "category": "Flight Instructor With a Sport Pilot Rating Endorsement",
+      "sampleText": "I certify that [First name, MI, Last name] has successfully completed a proficiency check in accordance with 14 CFR \u00a7\u00a7 61.409 and 61.419. I have determined that they are proficient and authorized for the additional [aircraft category and class] flight instructor privilege."
+    },
+    {
+      "id": "ac65k-055",
+      "code": "61.409, 61.411",
+      "title": "Practical test endorsement",
+      "category": "Flight Instructor With a Sport Pilot Rating Endorsement",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.409 and met the aeronautical experience requirements of 14 CFR \u00a7 61.411. I have determined that they are prepared for the flight instructor with a sport pilot rating practical test in a [aircraft category and class]."
+    },
+    {
+      "id": "ac65k-056",
+      "code": "61.409, 61.411",
+      "title": "Practical test completion endorsement",
+      "category": "Flight Instructor With a Sport Pilot Rating Endorsement",
+      "sampleText": "I certify that [First name, MI, Last name] has met the requirements in accordance with 14 CFR \u00a7\u00a7 61.409 and 61.411 and successfully completed the practical test. I have determined that they are proficient and authorized for the [aircraft category and class] flight instructor privilege."
+    },
+    {
+      "id": "ac65k-057",
+      "code": "61.412",
+      "title": "To train sport pilots on flight by reference to instruments",
+      "category": "Flight Instructor With a Sport Pilot Rating Endorsement",
+      "sampleText": "I certify that I have given [First name, MI, Last name] 3 hours of flight training and 1 hour of ground instruction specific to providing flight training on control and maneuvering an airplane solely by reference to the instruments in accordance with 14 CFR \u00a7 61.412. I have determined that they are proficient and authorized to provide training on control and maneuvering an airplane solely by reference to the flight instruments to this instructor's sport pilot candidate, who intends to operate an aircraft with a VH greater than 87 KCAS on a cross-country flight."
+    },
+    {
+      "id": "ac65k-058",
+      "code": "61.405(b)(1)(ii)",
+      "title": "Spin training",
+      "category": "Flight Instructor With a Sport Pilot Rating Endorsement",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.405(b)(1)(ii). I have determined that they are competent and possess instructional proficiency in stall awareness, spin entry, spins, and spin recovery procedures."
+    },
+    {
+      "id": "ac65k-059",
+      "code": "61.217(d)",
+      "title": "Ground instructor who does not meet the recent experience requirements",
+      "category": "Ground Instructor Endorsement",
+      "sampleText": "I certify that [First name, MI, Last name] has demonstrated knowledge in the subject areas prescribed for a [basic, advanced, instrument] ground instructor under 14 CFR \u00a7 61.213(a)(3) and (a)(4), as appropriate."
+    },
+    {
+      "id": "ac65k-060",
+      "code": "SFAR 73 \u00a72(a)(1) or (2)",
+      "title": "R-22/R-44 ground training",
+      "category": "Special Federal Aviation Regulation (SFAR) 73, Robinson Helicopter Company, Robinson R-22/R-44 Special Training and Experience Requirements, Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name, Pilot Certificate No. ____] has received the ground training required by SFAR 73, section 2(a)(3)(i)\u2013(v)."
+    },
+    {
+      "id": "ac65k-061",
+      "code": "SFAR 73 \u00a72(b)(3)",
+      "title": "R-22 solo endorsement",
+      "category": "Special Federal Aviation Regulation (SFAR) 73, Robinson Helicopter Company, Robinson R-22/R-44 Special Training and Experience Requirements, Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name, Pilot Certificate No. ____] meets the experience requirements of SFAR 73, section 2(b)(3) and has been given training specified by SFAR 73, section 2(b)(3)(i)\u2013(iv). They have been found proficient to solo the R-22 helicopter."
+    },
+    {
+      "id": "ac65k-062",
+      "code": "SFAR 73 \u00a72(b)(1)(ii)",
+      "title": "R-22 PIC endorsement",
+      "category": "Special Federal Aviation Regulation (SFAR) 73, Robinson Helicopter Company, Robinson R-22/R-44 Special Training and Experience Requirements, Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name, Pilot Certificate No. ____] has been given training specified by SFAR 73, section 2(b)(1)(ii)(A)\u2013(D) for Robinson R-22 helicopters and is proficient to act as pilot in command. An annual flight review must be completed by [date 12 calendar months after date of this endorsement] unless the requirements of SFAR 73, section 2(b)(1)(i) are met."
+    },
+    {
+      "id": "ac65k-063",
+      "code": "SFAR 73 \u00a72(b)(5)(iv)",
+      "title": "R-22 flight instructor endorsement",
+      "category": "Special Federal Aviation Regulation (SFAR) 73, Robinson Helicopter Company, Robinson R-22/R-44 Special Training and Experience Requirements, Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], holder of CFI Certificate No. [____], meets the experience requirements and has completed the flight training specified by SFAR 73, section 2(b)(5)(i)\u2013(ii) and (iii)(A)\u2013(D), and has demonstrated an ability to provide instruction on the general subject areas of SFAR 73, section 2(a)(3) and the flight training identified in SFAR 73, section 2(b)(5)(iii) in a Robinson R-22 helicopter."
+    },
+    {
+      "id": "ac65k-064",
+      "code": "SFAR 73 \u00a72(c)(1),(3)",
+      "title": "Flight review in an R-22 helicopter",
+      "category": "Special Federal Aviation Regulation (SFAR) 73, Robinson Helicopter Company, Robinson R-22/R-44 Special Training and Experience Requirements, Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name, Pilot Certificate No. ____] has satisfactorily completed the flight review in an R-22 required by 14 CFR \u00a7 61.56 and SFAR 73, section 2(c)(1) and (3), on [date of flight review]."
+    },
+    {
+      "id": "ac65k-065",
+      "code": "SFAR 73 \u00a72(b)(4)",
+      "title": "R-44 solo endorsement",
+      "category": "Special Federal Aviation Regulation (SFAR) 73, Robinson Helicopter Company, Robinson R-22/R-44 Special Training and Experience Requirements, Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name, Pilot Certificate No. ____] meets the experience requirements of SFAR 73, section 2(b)(4) and has been given training specified by SFAR 73, section 2(b)(4)(i)\u2013(iv). They have been found proficient to solo the R-44 helicopter."
+    },
+    {
+      "id": "ac65k-066",
+      "code": "SFAR 73 \u00a72(b)(2)(ii)",
+      "title": "R-44 PIC endorsement",
+      "category": "Special Federal Aviation Regulation (SFAR) 73, Robinson Helicopter Company, Robinson R-22/R-44 Special Training and Experience Requirements, Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name, Pilot Certificate No. ____] has been given training specified by SFAR 73, section 2(b)(2)(ii)(A)\u2013(D) for Robinson R-44 helicopters and is proficient to act as pilot in command. An annual flight review must be completed by [date 12 calendar months after date of this endorsement] unless the requirements of SFAR 73, section 2(b)(2)(i) are met."
+    },
+    {
+      "id": "ac65k-067",
+      "code": "SFAR 73 \u00a72(b)(5)(iv)",
+      "title": "R-44 flight instructor endorsement",
+      "category": "Special Federal Aviation Regulation (SFAR) 73, Robinson Helicopter Company, Robinson R-22/R-44 Special Training and Experience Requirements, Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], holder of CFI Certificate No. [____], meets the experience requirements and has completed the flight training specified by SFAR 73, section 2(b)(5)(i)\u2013(ii) and (iii)(A)\u2013(D), and has demonstrated an ability to provide instruction on the general subject areas of SFAR 73, section 2(a)(3) and the flight training identified in SFAR 73, section 2(b)(5)(iii) in a Robinson R-44 helicopter."
+    },
+    {
+      "id": "ac65k-068",
+      "code": "SFAR 73 \u00a72(c)(2),(3)",
+      "title": "Flight review in an R-44 helicopter",
+      "category": "Special Federal Aviation Regulation (SFAR) 73, Robinson Helicopter Company, Robinson R-22/R-44 Special Training and Experience Requirements, Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name, Pilot Certificate No. ____] has satisfactorily completed the flight review in an R-44 required by 14 CFR \u00a7 61.56 and SFAR 73, section 2(c)(2) and (3), on [date of flight review]."
+    },
+    {
+      "id": "ac65k-069",
+      "code": "61.56(a),(c)",
+      "title": "Completion of a flight review",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has satisfactorily completed a flight review of 14 CFR \u00a7 61.56(a) on [date]."
+    },
+    {
+      "id": "ac65k-070",
+      "code": "61.56(e)",
+      "title": "Completion of any phase of an FAA-sponsored Pilot Proficiency Program (WINGS)",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has satisfactorily completed Level: [Basic/Advanced/Master, as appropriate], PHASE NO. [..] OF A WINGS PROGRAM ON [DATE]."
+    },
+    {
+      "id": "ac65k-071",
+      "code": "61.57(d)",
+      "title": "Completion of an instrument proficiency check (IPC)",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has satisfactorily completed the instrument proficiency check of 14 CFR \u00a7 61.57(d) in a [M/M] aircraft on [date]."
+    },
+    {
+      "id": "ac65k-072",
+      "code": "61.31(e)",
+      "title": "To act as PIC in a complex airplane",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has received the required training of 14 CFR \u00a7 61.31(e) in a [M/M] complex airplane. I have determined that they are proficient in the operation and systems of a complex airplane."
+    },
+    {
+      "id": "ac65k-073",
+      "code": "61.31(f)",
+      "title": "To act as PIC in a high-performance airplane",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has received the required training of 14 CFR \u00a7 61.31(f) in a [M/M] high-performance airplane. I have determined that they are proficient in the operation and systems of a high-performance airplane."
+    },
+    {
+      "id": "ac65k-074",
+      "code": "61.31(g)",
+      "title": "To act as PIC in a pressurized aircraft capable of high-altitude operations",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has received the required training of 14 CFR \u00a7 61.31(g) in a [M/M] pressurized aircraft. I have determined that they are proficient in the operation and systems of a pressurized aircraft."
+    },
+    {
+      "id": "ac65k-075",
+      "code": "61.31(i)",
+      "title": "To act as PIC in a tailwheel airplane",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has received the required training of 14 CFR \u00a7 61.31(i) in a [M/M] of tailwheel airplane. I have determined that they are proficient in the operation of a tailwheel airplane."
+    },
+    {
+      "id": "ac65k-076",
+      "code": "61.31(d)(2)",
+      "title": "To act as PIC of an aircraft in solo operations when the pilot does not hold an appropriate category/class rating",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the training as required by 14 CFR \u00a7 61.31(d)(2) to serve as a pilot in command in a [specific category and class] aircraft. I have determined that they are prepared to solo that [M/M] aircraft. Limitations: [optional]."
+    },
+    {
+      "id": "ac65k-077",
+      "code": "61.49",
+      "title": "Retesting after failure of a knowledge or practical test",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the additional [flight and/or ground, as appropriate] training as required by 14 CFR \u00a7 61.49. I have determined that they are proficient to pass the [name of] knowledge/practical test."
+    },
+    {
+      "id": "ac65k-078",
+      "code": "61.63(b) or (c)",
+      "title": "Additional aircraft category or class rating (other than ATP)",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has received the required training for an additional [aircraft category/class rating]. I have determined that they are prepared for the [name of] practical test for the addition of a [name of specific aircraft category/class/type] type rating."
+    },
+    {
+      "id": "ac65k-079",
+      "code": "61.63(d)(2)",
+      "title": "Type rating only, already holds the appropriate category or class rating (other than ATP)",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.63(d)(2) for an addition of a [name of] type rating."
+    },
+    {
+      "id": "ac65k-080",
+      "code": "61.63(d)(2)",
+      "title": "Type rating concurrently with an additional category or class rating (other than ATP)",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.63(d)(2) for an addition of a [name of specific category/class/type] type rating. I have determined that they are prepared for the [name of] practical test for the addition of a [name of specific aircraft category/class/type] type rating."
+    },
+    {
+      "id": "ac65k-081",
+      "code": "61.157(b)(2)",
+      "title": "Type rating only, already holds the appropriate category or class rating (at the ATP level)",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.157(b)(2) for an addition of a [name of] type rating."
+    },
+    {
+      "id": "ac65k-082",
+      "code": "61.157(b)(2)",
+      "title": "Type rating concurrently with an additional category or class rating (at the ATP level)",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name] has received the required training of 14 CFR \u00a7 61.157(b)(2) for an addition of a [name of the specific category/class/type] type rating."
+    },
+    {
+      "id": "ac65k-083",
+      "code": "61.31(j)",
+      "title": "Launch procedures for operating a glider",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has received the required training in a glider [M/M] for [ground-tow, aerotow, self-launch] procedure. I have determined that they are proficient in [ground-tow, aerotow, self-launch] procedure."
+    },
+    {
+      "id": "ac65k-084",
+      "code": "61.69(a)(5)",
+      "title": "Glider and unpowered ultralight vehicle towing experience",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has accomplished at least three flights in an aircraft while towing [a glider or unpowered ultralight vehicle, or while simulating towing flight procedures, as applicable]."
+    },
+    {
+      "id": "ac65k-085",
+      "code": "61.69(a)(3)",
+      "title": "Glider and unpowered ultralight vehicle towing ground and flight",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has received the required ground and flight training in [a glider or unpowered ultralight vehicle, as applicable]. I have determined that they are proficient in the techniques and procedures essential to the safe towing of [gliders or unpowered vehicles, as applicable], including airspeed limitations, emergency procedures, signals used, and maximum angles of bank."
+    },
+    {
+      "id": "ac65k-086",
+      "code": "61.35(a)(1)",
+      "title": "Review of a home-study curriculum",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify I have reviewed the home-study curriculum of [First name, MI, Last name]. I have determined that they are prepared for the [name of] knowledge test."
+    },
+    {
+      "id": "ac65k-087",
+      "code": "61.52",
+      "title": "Aeronautical experience credit \u2014 ultralight vehicles",
+      "category": "Additional Endorsements",
+      "sampleText": "I certify that I have reviewed the records of [First name, MI, Last name], as required by 14 CFR \u00a7 61.52(c). I have determined that they may use [number of hours] aeronautical experience obtained in an ultralight vehicle to meet the requirements for [certificate/rating/privilege]."
+    },
+    {
+      "id": "ac65k-088",
+      "code": "61.31(k)(1)",
+      "title": "Ground training to act as PIC of an aircraft using night vision goggles (NVG)",
+      "category": "Night Vision Goggles Operations (NVGO)",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has received the ground training required by 14 CFR \u00a7 61.31(k)(1), (i) through (v) to conduct night vision goggle operations."
+    },
+    {
+      "id": "ac65k-089",
+      "code": "61.31(k)(2)",
+      "title": "Flight training and statement of proficiency to act as PIC of an aircraft using NVG",
+      "category": "Night Vision Goggles Operations (NVGO)",
+      "sampleText": "I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number], has received the flight training on night vision goggle operations required by 14 CFR \u00a7 61.31(k)(2), (i) through (iv). I find them proficient in the use of night vision goggles."
+    },
+    {
+      "id": "ac65k-090",
+      "code": "61.195(k)(7)",
+      "title": "Endorsement required to provide training for NVGOs",
+      "category": "Night Vision Goggles Operations (NVGO)",
+      "sampleText": "I certify that [First name, MI, Last name], holder of CFI Certificate No. [_____], meets the night vision goggle instructor requirements of 14 CFR \u00a7 61.195(k) and is authorized to perform the night vision goggle pilot-in-command qualification and recent flight experience requirements under 14 CFR \u00a7\u00a7 61.31(k) and 61.57(f) and (g). This endorsement does not provide the authority to endorse another flight instructor as a night vision goggle instructor."
+    },
+    {
+      "id": "ac65k-091",
+      "code": "61.66(a)",
+      "title": "EFVS ground training",
+      "category": "Enhanced Flight Vision System (EFVS)",
+      "sampleText": "I certify that [First name, MI, Last name], [pilot certificate], [certificate number], has satisfactorily completed the ground training required by 14 CFR \u00a7 61.66(a) appropriate to the [appropriate aircraft category] category of aircraft."
+    },
+    {
+      "id": "ac65k-092",
+      "code": "61.66(b)",
+      "title": "EFVS flight training",
+      "category": "Enhanced Flight Vision System (EFVS)",
+      "sampleText": "I certify that [First name, MI, Last name], [pilot certificate], [certificate number], has received the flight training required by 14 CFR \u00a7 61.66(b) and is proficient in the use of EFVS in the [appropriate aircraft category in which the flight training was conducted] category of aircraft for EFVS operations conducted under [14 CFR \u00a7 91.176(a), (b), or both 14 CFR \u00a7 91.176(a) and (b)]."
+    },
+    {
+      "id": "ac65k-093",
+      "code": "61.66(a),(b)",
+      "title": "EFVS ground and flight training",
+      "category": "Enhanced Flight Vision System (EFVS)",
+      "sampleText": "I certify that [First name, MI, Last name], [pilot certificate], [certificate number], has satisfactorily completed the ground training required by 14 CFR \u00a7 61.66(a) and has received the flight training required by 14 CFR \u00a7 61.66(b) for EFVS operations and is proficient in the use of EFVS in the [appropriate aircraft category in which the ground and flight training was conducted] category of aircraft for EFVS operations conducted under [14 CFR \u00a7 91.176(a), (b), or both 14 CFR \u00a7 91.176(a) and (b)]."
+    },
+    {
+      "id": "ac65k-094",
+      "code": "61.66(c)",
+      "title": "EFVS supplementary training",
+      "category": "Enhanced Flight Vision System (EFVS)",
+      "sampleText": "I certify that [First name, MI, Last name], [pilot certificate], [certificate number], has satisfactorily completed the required ground and flight training required by 14 CFR \u00a7 61.66(c) for EFVS operations and is proficient in the use of EFVS in the [appropriate aircraft category in which the supplementary ground and flight training was conducted] category of aircraft for EFVS operations conducted under [14 CFR \u00a7 91.176(a), (b), or both 14 CFR \u00a7 91.176(a) and (b)]."
+    },
+    {
+      "id": "ac65k-095",
+      "code": "61.31(l), 61.45(h)(1)",
+      "title": "To act as PIC in an aircraft with a simplified flight controls designation",
+      "category": "Simplified Flight Controls",
+      "sampleText": "I certify that [First Name, MI, Last Name], [grade of pilot certificate], [certificate number], has received the required training of 14 CFR \u00a7 61.31(l)(1) in a [M/M] aircraft with simplified flight controls designation. I have determined that [pilot name] is proficient in the operation of an [category and class, M/M] aircraft with simplified flight controls."
+    },
+    {
+      "id": "ac65k-096",
+      "code": "61.195(n)",
+      "title": "Initial cadre training in an aircraft with simplified flight controls",
+      "category": "Simplified Flight Controls",
+      "sampleText": "I certify that [First Name, MI, Last Name], [grade of pilot certificate], [certificate number], has received the required training of 14 CFR \u00a7 61.195(n)(2)(ii) in a [M/M] aircraft with simplified flight controls designation. I have determined that [pilot name] is proficient in the operation of an [category and class, M/M] aircraft with simplified flight controls."
+    }
+  ]
+}
