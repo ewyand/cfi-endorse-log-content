@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "faaListURL": "https://www.faa.gov/pilots/training/firc",
+  "providers": [
+    { "name": "AOPA", "format": "Online", "url": "https://www.aopa.org/training-and-safety/cfis/flight-instructor-resources/cfi-renewal" },
+    { "name": "American Flyers", "format": "Online or in-person", "url": "https://americanflyers.com/flight-instructor-refresher-course-firc/" },
+    { "name": "Aviation Seminars", "format": "In-person (live classroom)", "url": "https://www.aviationseminars.com/flight-instructor-renewal/" },
+    { "name": "Gleim", "format": "Online", "url": "https://aviation.gleim.com/shop/firc/" },
+    { "name": "King Schools", "format": "Online", "url": "https://kingschools.com/flight-instructor-refresher-course-firc-online" },
+    { "name": "Sporty's", "format": "Online", "url": "https://www.sportys.com/sporty-s-efirc-flight-instructor-refresher-online-course.html" }
+  ]
+}
